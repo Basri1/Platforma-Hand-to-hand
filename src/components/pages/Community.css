@@ -1,0 +1,25 @@
+/* Community.css */
+.community-page {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.community-page h1 {
+    color: #333;
+    text-align: center;
+}
+
+.community-page p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.community-page h2 {
+    color: #007bff;
+}
+
+/* Add additional styles as needed */

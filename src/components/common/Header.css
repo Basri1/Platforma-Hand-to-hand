@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f3f3f3; /* Ndërrojeni këtë sipas preferencave tuaja */
+}
+
+.left-links, .right-links {
+    display: flex;
+    gap: 20px; /* Rregulloni hapësirën midis lidhjeve */
+}
+
+.link {
+    text-decoration: none;
+    color: black; /* Ose çfarëdo ngjyre që preferoni */
+    padding: 5px; /* Rregulloni padding sipas nevojës */
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
